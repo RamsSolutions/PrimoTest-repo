@@ -1,1 +1,1 @@
-# PrimoTest-repo
+This project is based on normal OOP concept, just for my private group to know how to go about on Github
