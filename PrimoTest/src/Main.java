@@ -1,4 +1,6 @@
 public class Main {
+    static String msg = "Primo's test project";
+
     public static void main(String[] args) {
 
         message();
@@ -6,6 +8,6 @@ public class Main {
 
     static void message(){
 
-        System.out.println("Primo's test project");
+        System.out.println(msg);
     }
 }
